@@ -8,6 +8,8 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class Main extends JavaPlugin {
 //WYWYWYWYWYWYW
+    //PACZAJ
+    //TU
     @Override
     public void onEnable() {
         super.onEnable();
