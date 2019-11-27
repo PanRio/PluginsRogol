@@ -20,7 +20,7 @@ public class Main extends JavaPlugin {
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
 
 
-
+//hohohoo
         return super.onCommand(sender, command, label, args);
     }
 }
