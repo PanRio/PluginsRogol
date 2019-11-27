@@ -1,7 +1,9 @@
+
 package RogRob;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
+import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class Main extends JavaPlugin {
@@ -19,8 +21,13 @@ public class Main extends JavaPlugin {
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
 
+        if(sender instanceof Player)
+        {
+            //SUPER
+            int a = 1;
+        }
 
-//hohohoo
         return super.onCommand(sender, command, label, args);
     }
 }
+
