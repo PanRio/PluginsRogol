@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package RogRob;
 
 import org.bukkit.command.Command;
@@ -28,3 +29,31 @@ public class Main extends JavaPlugin {
         return super.onCommand(sender, command, label, args);
     }
 }
+=======
+package RogRob;
+
+import org.bukkit.command.Command;
+import org.bukkit.command.CommandSender;
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class Main extends JavaPlugin {
+
+    @Override
+    public void onEnable() {
+        super.onEnable();
+    }
+
+    @Override
+    public void onDisable() {
+        super.onDisable();
+    }
+
+    @Override
+    public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
+
+
+//hohohoo
+        return super.onCommand(sender, command, label, args);
+    }
+}
+>>>>>>> master

@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="craftbukkit-1.14.4">
     <CLASSES>
-      <root url="jar://D:/CraftBukkitServer/craftbukkit-1.14.4.jar!/" />
+      <root url="jar://D:/craftbukkit/craftbukkit-1.14.4-R0.1-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://D:/CraftBukkitServer/craftbukkit-1.14.4.jar!/" />
+      <root url="jar://D:/craftbukkit/craftbukkit-1.14.4-R0.1-SNAPSHOT.jar!/" />
     </SOURCES>
   </library>
 </component>
