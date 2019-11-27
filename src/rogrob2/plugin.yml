@@ -1,5 +1,5 @@
-name: Main
-main: RogRob.Main
+name: MainClass
+main: rogrob2.MainClass
 author: RobRog
 version: 1.0
 description: LootBoxes

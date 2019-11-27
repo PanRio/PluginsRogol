@@ -1,0 +1,8 @@
+name: MainClass
+main: rogrob2.MainClass
+author: RobRog
+version: 1.0
+description: LootBoxes
+commands:
+  getkey:
+    description: opens virtual chest
