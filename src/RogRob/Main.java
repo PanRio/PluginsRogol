@@ -10,6 +10,9 @@ public class Main extends JavaPlugin {
 //WYWYWYWYWYWYW
     //PACZAJ
     //TU
+
+
+    //MOWY PUSH
     @Override
     public void onEnable() {
         super.onEnable();
