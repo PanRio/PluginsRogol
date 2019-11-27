@@ -13,6 +13,8 @@ public class Main extends JavaPlugin {
 
 
     //MOWY PUSH
+
+    //bez xml
     @Override
     public void onEnable() {
         super.onEnable();
