@@ -2,3 +2,5 @@
 .idea/libraries/craftbukkit_1_14_4.xml
 
 .idea/workspace.xml
+
+*.xml
