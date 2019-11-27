@@ -56,9 +56,13 @@ public class MainClass extends JavaPlugin implements Listener {
         Player player = event.getPlayer();
         player.sendMessage(ChatColor.BLUE + "Klikasz Gnoju");
 
-        if(player.getItemOnCursor().equals(compass))
+        if(player.getItemInHand().equals(compass))
         {
             player.sendMessage(ChatColor.BLUE + "Otwierasz Skrzynie Wirtualna");
+        }
+        if(player.getItemOnCursor() != null)
+        {
+            player.sendMessage("Klikasz na " + player.getItemOnCursor().getType().toString());
         }
     }
 }
